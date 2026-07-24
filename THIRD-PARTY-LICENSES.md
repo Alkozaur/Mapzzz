@@ -11,5 +11,10 @@ This project is released under GNU General Public License v3.0(GPLv3) and contai
 * **License:** BSD-2-Clause license
 * **License path:** None 
 
-
-  
+### 2. Valhalla:
+* **Copyright (c) Valhalla contributors**
+* **Source code:** https://github.com/valhalla/valhalla
+* **Uses of this code:** None
+* **Modified sections:** None
+* **License:** MIT License 
+* **License path:** None 
