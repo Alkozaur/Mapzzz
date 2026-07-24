@@ -4,7 +4,7 @@ This project is released under GNU General Public License v3.0(GPLv3) and contai
 
 
 ### 1. MapLibre Native:
-#### **Copyright (c) MapLibre contributors**
+* **Copyright (c) MapLibre contributors**
 * **Source code:** https://github.com/maplibre/maplibre-native
 * **Uses of this code:** None
 * **Modified sections:** None
