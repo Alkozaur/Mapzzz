@@ -9,7 +9,7 @@ This project is released under GNU General Public License v3.0(GPLv3) and contai
 * **Uses of this code:** None
 * **Modified sections:** None
 * **License:** BSD-2-Clause license
-* **License path:** None 
+* **License path:** Licenses-and-Notices/maplibre-native.LICENSE.md
 
 ### 2. Valhalla:
 * **Copyright (c) Valhalla contributors**
